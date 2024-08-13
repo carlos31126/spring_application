@@ -30,4 +30,4 @@ jobs:
 
     - name: Verify Spring Boot application
       run: |
-        curl -f http://localhost:8080/hello
+        curl -f https://localhost:8080/hello
